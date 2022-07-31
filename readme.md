@@ -11,6 +11,7 @@ Very basic node express application which adds numbers
 Open the project in VS Code
 
 ```
+npm install
 npm run start
 ```
 
